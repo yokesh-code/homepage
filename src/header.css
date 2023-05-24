@@ -1,0 +1,11 @@
+.header {
+    background-color: rgba(var(--bs-dark-rgb));
+    color: white;
+    text-align: center;
+}
+.heading1{
+    font-size: calc(1.375rem + 1.5vw);
+    font-weight: bolder;
+}
+
+
